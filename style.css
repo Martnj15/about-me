@@ -31,3 +31,23 @@ h4 {
     width: 300px;
     max-width: 100%;
 }
+
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
